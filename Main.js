@@ -1,1 +1,1 @@
-print("it's a beautiful day")
+console.log("it's a beautiful day")
