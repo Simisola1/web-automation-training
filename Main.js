@@ -1,1 +1,1 @@
-"print("It's a beautiful day")" 
+print("it's a beautiful day")
